@@ -15,7 +15,6 @@ Data analysis and machine learning tools
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100"/>
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="100"/>
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas" width="100"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Postgresql_elephant.svg" alt="PostgreSQL" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="100"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Artificial_Intelligence_Icon.png" alt="Machine Learning" width="100"/>
 </p>
