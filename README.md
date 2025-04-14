@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello! 👋
+I'm Aslı Bayram, an Electrical Engineer currently developing my career in data science. I'm continuously learning and creating projects through the MIUUL Data Science Bootcamp, gaining skills in Python, machine learning, and data analytics.
 
-<!--
-**ASLI-BAYRAM/ASLI-BAYRAM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Previous Experience:** I'm combining my technical background in electrical engineering with data science.
+**Current Goal:** To deepen my knowledge in data science, machine learning, big data analytics, and AI.
+**Career Goal:** To combine my engineering background with data science to develop data-driven solutions and contribute to the business world.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools I Use:
+Python, Pandas, NumPy, Scikit-learn, Matplotlib
+SQL, Jupyter, GitHub
+Data analysis and machine learning tools
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="100"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="100"/>
+</p>
