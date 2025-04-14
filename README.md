@@ -16,5 +16,4 @@ Data analysis and machine learning tools
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="120"/>
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="120"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="120"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/67/Artificial_Intelligence_Icon.png" alt="Machine Learning" width="120"/>
 </p>
