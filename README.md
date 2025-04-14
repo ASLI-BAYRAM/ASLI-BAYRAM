@@ -9,11 +9,11 @@ I'm Aslı , an Electrical Engineer currently developing my career in data scienc
 
 **What I'm use?** 🛠
 Python, Pandas, NumPy, Scikit-learn, Matplotlib
-SQL, Jupyter, GitHub
-Data analysis and machine learning tools
+SQL, Jupyter, Git&Github
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="120"/>
   <img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="Jupyter Notebook" width="120"/>
   <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="120"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="PostgreSQL" width="120"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="120"/>
 </p>
